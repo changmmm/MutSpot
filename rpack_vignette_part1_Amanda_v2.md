@@ -85,7 +85,6 @@ sample.snv.features = "sample_features_table_snv.txt", drop = TRUE)
 Mutation files contain all SNVs or all indels of all tumors in the study in the MAF format. MAF file should be tab delimited with exactly 6 columns: chromosome, start position (1-based), end position (1-based), reference allele, alternate allele, and sample ID. There is no header row in MAF files.
 Example MAF file:
 
------ | -------- | -------- | - | - | --------
  chr1 | 16265287 | 16265287 | G | C | patient1
  chr1 | 17320166 | 17320166 | C | T | patient2
  chr1 | 19497536 | 19497536 | G | C | patient3
