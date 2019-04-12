@@ -213,7 +213,7 @@ MutSpot outputs a TSV file of all hotspot regions found, ordered by significance
 1. Chromosome
 2. Start position
 3. End position
-4. p-value
+4. *P*-value
 5. Length of hotspot (bp)
 6. Mean background mutation probability
 7. Number of mutated samples
