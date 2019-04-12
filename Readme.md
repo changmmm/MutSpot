@@ -10,24 +10,14 @@ Reference: [Guo et al., Nature Communications, 2018](https://www.nature.com/arti
 
 ## Contents
 [Installation] (#installation)
-<br/>[MutSpot analysis workflow] (#workflow)
-<br/>[Usage example] (#usage)
-<br/>[Main arguments] (#arguments)
-<br/>[Input files] (#input)
-<br/>[1. Mutations] (#mutations)
-<br/>[2. Genomic features] (#genomic-features)
-<br/>[3. Sample specific features (optional)] (#sample-features)
-<br/>[4. Region of interest (optional)] (#region-interest)
-<br/>[Adjusting threshold of LASSO feature selection] (#adjusting-threshold)
-<br/>[Output files] (#output)
-<br/>[Hotspot summary file] (#hotspot-summary)
-<br/>[Figures] (#figures)
+
 
 ------------------------------------------------------------------------------------
 
-<a name="installation"></a>
-
+<a name="installation">
 ## Installation
+</a>
+
 MutSpot runs on R (requires at least 3.2.0). Install the package from Github using the following R commands.
 
 ```{r}
