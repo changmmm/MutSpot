@@ -26,9 +26,9 @@ Reference: [Guo et al., Nature Communications, 2018](https://www.nature.com/arti
 
 ------------------------------------------------------------------------------------
 
-<a name="installation">
+<a name="installation"></a>
+
 ## Installation
-</a>
 
 MutSpot runs on R (requires at least 3.2.0). Install the package from Github using the following R commands.
 
